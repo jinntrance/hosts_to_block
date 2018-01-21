@@ -1,2 +1,3 @@
-# hosts_to_block
-Consolidate hosts to block and make it simple
+# hosts to block
+
+Use hosts from https://github.com/StevenBlack/hosts and make it simple to block.
